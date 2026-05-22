@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Reza 👋
 
-<!--
-**RezaEsmaili/RezaEsmaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dental student with a deep passion for technology, building products, and programming. My focus is on combining high-end design with clean code to create beautiful and highly functional software. 
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Developing and designing **iOS** applications using **SwiftUI**, strictly following Apple Human Interface Guidelines.
+- Currently building **Gelim**, a multi-currency exchange application.
+- Crafting modern User Interfaces (UI) with a strong preference for minimalist aesthetics like **Glassmorphism** and **Liquid Glass**.
+- Building browser extensions and developing UI applications for **Windows**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Skills
+- **Mobile Development:** iOS, SwiftUI
+- **Design:** UI/UX Design, Prototyping
+- **Software Development:** Windows UI, Browser Extensions
